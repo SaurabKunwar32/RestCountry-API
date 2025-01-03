@@ -1,0 +1,36 @@
+main .shimmer {
+  --shimmerColor: hsl(0, 0%, 78%);
+}
+
+main.darkM .shimmer {
+  --shimmerColor: hsl(208, 21%, 34%);
+}
+
+.cfl {
+  background-color: var(--shimmerColor);
+  height: 120px;
+  width: 100%;
+}
+
+.cardDetail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cardTTL {
+  margin-top: 10px;
+  background-color: var(--shimmerColor);
+  height: 30px;
+  width: 90%;
+  border-radius: 6px;
+}
+
+.pa {
+  width: 90%;
+  height: 20px;
+  background-color: var(--shimmerColor);
+  margin-top: 10px;
+  border-radius: 6px;
+}

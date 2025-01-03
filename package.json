@@ -1,0 +1,22 @@
+{
+  "name": "all_country_react",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": " parcel index.html ",
+    "build": " parcel build index.html "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^6.14.1",
+    "react-router-dom": "^6.14.1"
+  }
+}

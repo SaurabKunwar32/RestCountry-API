@@ -1,0 +1,34 @@
+
+
+.flag {
+  background-color: #a9a8a8;
+  /* width: 400px; */
+  height: 290px;
+}
+
+.back {
+  height: 40px;
+  width: 90px;
+  background-color: #a9a8a8;
+  border-radius: 6px;
+}
+
+.head{
+    height: 30px;
+    width: 100px;
+    background-color: #a9a8a8;
+}
+
+.cbox{
+    background-color: #a9a8a8;
+    width: 200px;
+    height: 30px;
+}
+
+.bdr{
+    background-color: #a9a8a8;
+    height: 40px;
+    width:100px;
+    margin-top: 4rem;
+}
+
